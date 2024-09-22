@@ -1,0 +1,15 @@
+.email-input {
+  position: relative;
+}
+
+.email-input button {
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+
+.searchInput {
+  margin-bottom: 16px;
+}
